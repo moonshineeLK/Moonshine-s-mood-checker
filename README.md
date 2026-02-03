@@ -1,2 +1,9 @@
 # Moonshine-s-mood-checker
-A cute python program which asks about your mood and comfort you, my first program 
+# Greeting Program 💜
+
+This is my first interactive Python project.
+
+## How to Run
+1. Install Python
+2. Download files
+3. Run: python main.py
